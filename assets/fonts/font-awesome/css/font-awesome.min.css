@@ -1,0 +1,165 @@
+/*!
+ * Font Awesome Free 5.0.6 by @fontawesome - http://fontawesome.com
+ * License - http://fontawesome.com/license (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ */
+ .fa {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  display: inline-block;
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  line-height: 1;
+}
+.fa-sm {
+  font-size: 0.875em;
+}
+.fa-1x {
+  font-size: 1em;
+}
+.fa-2x {
+  font-size: 2em;
+}
+.fa-3x {
+  font-size: 3em;
+}
+.fa-4x {
+  font-size: 4em;
+}
+.fa-5x {
+  font-size: 5em;
+}
+.fa-6x {
+  font-size: 6em;
+}
+.fa-7x {
+  font-size: 7em;
+}
+.fa-8x {
+  font-size: 8em;
+}
+.fa-9x {
+  font-size: 9em;
+}
+.fa-10x {
+  font-size: 10em;
+}
+.fa-ul {
+  list-style-type: none;
+  margin-left: 2.5em;
+  padding-left: 0;
+}
+.fa-ul > li {
+  position: relative;
+}
+.fa-li {
+  left: -2em;
+  position: absolute;
+  text-align: center;
+  width: 2em;
+  line-height: inherit;
+}
+@-webkit-keyframes fa-spin {
+  0% {
+      -webkit-transform: rotate(0);
+      transform: rotate(0);
+  }
+  100% {
+      -webkit-transform: rotate(360deg);
+      transform: rotate(360deg);
+  }
+}
+@keyframes fa-spin {
+  0% {
+      -webkit-transform: rotate(0);
+      transform: rotate(0);
+  }
+  100% {
+      -webkit-transform: rotate(360deg);
+      transform: rotate(360deg);
+  }
+}
+.fa-apple:before {
+  content: "\f179";
+}
+.fa-cogs:before {
+  content: "\f085";
+}
+.fa-css3:before {
+  content: "\f13c";
+}
+.fa-font:before {
+  content: "\f031";
+}
+.fa-font-awesome:before {
+  content: "\f2b4";
+}
+.fa-gift:before {
+  content: "\f06b";
+}
+.fa-heading:before {
+  content: "\f1dc";
+}
+.fa-html5:before {
+  content: "\f13b";
+}
+.fa-image:before {
+  content: "\f03e";
+}
+.fa-images:before {
+  content: "\f302";
+}
+.fa-info:before {
+  content: "\f129";
+}
+.fa-italic:before {
+  content: "\f033";
+}
+.fa-js:before {
+  content: "\f3b8";
+}
+.fa-link:before {
+  content: "\f0c1";
+}
+.fa-page4:before {
+  content: "\f3d7";
+}
+.fa-text-width:before {
+  content: "\f035";
+}
+.fa-th:before {
+  content: "\f00a";
+}
+@font-face {
+  font-family: "Font Awesome 5 Brands";
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://smart-skill.github.io/rsa-tabs/assets/fonts/font-awesome/fonts/fa-brands-400.eot);
+  src: url(https://smart-skill.github.io/rsa-tabs/assets/fonts/font-awesome/fonts/fa-brands-400.eot?#iefix) format("embedded-opentype"),
+      url(https://smart-skill.github.io/rsa-tabs/assets/fonts/font-awesome/fonts/fa-brands-400.woff2) format("woff2"), url(https://smart-skill.github.io/rsa-tabs/assets/fonts/font-awesome/fonts/fa-brands-400.woff) format("woff"),
+      url(https://smart-skill.github.io/rsa-tabs/assets/fonts/font-awesome/fonts/fa-brands-400.ttf) format("truetype"),
+      url(https://smart-skill.github.io/rsa-tabs/assets/fonts/font-awesome/fonts/fa-brands-400.svg#fontawesome) format("svg");
+}
+@font-face {
+  font-family: "Font Awesome 5 Free";
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://smart-skill.github.io/rsa-tabs/assets/fonts/font-awesome/fonts/fa-regular-400.eot);
+  src: url(https://smart-skill.github.io/rsa-tabs/assets/fonts/font-awesome/fonts/fa-regular-400.eot?#iefix) format("embedded-opentype"),
+      url(https://smart-skill.github.io/rsa-tabs/assets/fonts/font-awesome/fonts/fa-regular-400.woff2) format("woff2"), url(https://smart-skill.github.io/rsa-tabs/assets/fonts/font-awesome/fonts/fa-regular-400.woff) format("woff"),
+      url(https://smart-skill.github.io/rsa-tabs/assets/fonts/font-awesome/fonts/fa-regular-400.ttf) format("truetype"),
+      url(https://smart-skill.github.io/rsa-tabs/assets/fonts/font-awesome/fonts/fa-regular-400.svg#fontawesome) format("svg");
+}
+@font-face {
+  font-family: "Font Awesome 5 Free";
+  font-style: normal;
+  font-weight: 900;
+  src: url(https://smart-skill.github.io/rsa-tabs/assets/fonts/font-awesome/fonts/fa-solid-900.eot);
+  src: url(https://smart-skill.github.io/rsa-tabs/assets/fonts/font-awesome/fonts/fa-solid-900.eot?#iefix) format("embedded-opentype"),
+      url(https://smart-skill.github.io/rsa-tabs/assets/fonts/font-awesome/fonts/fa-solid-900.woff2) format("woff2"), url(https://smart-skill.github.io/rsa-tabs/assets/fonts/font-awesome/fonts/fa-solid-900.woff) format("woff"),
+      url(https://smart-skill.github.io/rsa-tabs/assets/fonts/font-awesome/fonts/fa-solid-900.ttf) format("truetype"), url(https://smart-skill.github.io/rsa-tabs/assets/fonts/font-awesome/fonts/fa-solid-900.svg#fontawesome) format("svg");
+}
+.fa {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+}
