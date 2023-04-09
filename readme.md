@@ -2,9 +2,9 @@
 <h1><b>Full name of project:</b> <span class="f-p-name">Responsive Scrollable Accordion </span></h1>
 <p><b>Short name of project:</b> "<span class="s-p-name">rsa-tabs</span>" (means: <span class="f-p-name">Responsive Scrollable Accordion </span>)</p>
 <p><b>Project url:</b> <span class="p-sc-url">https://smart-skill.github.io/rsa-tabs/</span></p>
-<p><b>Lisensor Full name:</b> <span class="p-a-name">Georgy Basharuli</span></p>
-<p><b>Nickname of lisensor profile:</b> <span class="p-a-s-name">smart-skill</span></p>
-<p><b>Lisensor profile url:</b> <span class="p-a-url">https://github.com/smart-skill</span></p>
+<p><b>Licensor Full name:</b> <span class="p-a-name">Georgy Basharuli</span></p>
+<p><b>Nickname of Licensor profile:</b> <span class="p-a-s-name">smart-skill</span></p>
+<p><b>Licensor profile url:</b> <span class="p-a-url">https://github.com/smart-skill</span></p>
 <p><b>Autor e-mail:</b> <span class="p-a-email">web.pr@mail.ru</span></p>
 <p><b>License year:</b> <span class="l-year">2023</span></p>
 <br>
